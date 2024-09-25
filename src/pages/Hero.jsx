@@ -20,7 +20,7 @@ const Hero = ({ theme }) => {
             <img
               src={theme === "dark" ? carPng : yellowCar}
               alt=""
-              className="sm:scale-125 relative -z-10 max-h-[600px] drop-shadow-[2px_20px_6px_rgba(0,0,0,0.50)]"
+              className="sm:scale-125 relative -z-10 max-h-[600px] drop-shadow-[2px_20px_6px_rgba(0,0,0,0.60)]"
             />
           </div>
           <div className="space-y-5 order-2 sm:order-1 sm:pr-32 ">
