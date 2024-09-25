@@ -25,18 +25,18 @@ const Hero = ({ theme }) => {
           </div>
           <div className="space-y-5 order-2 sm:order-1 sm:pr-32 ">
             <p data-aos="fade-up" className="text-primary text-2xl font-serif">
-              Effortless
+              Tez va oson
             </p>
             <h1
               data-aos="fade-up"
               data-aos-delay="600"
               className="text-5xl lg:text-7xl font-semibold font-serif"
             >
-              Car Rental
+              RENT CAR
             </h1>
             <p data-aos="fade-up" data-aos-delay="1000">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-              veritatis explicabo quibusdam quae reprehenderit ab{" "}
+              veritatis explicabo quibusdam quae reprehenderit ab{""}
             </p>
             <button
               data-aos="fade-up"
@@ -46,7 +46,7 @@ const Hero = ({ theme }) => {
               }}
               className="rounded-md bg-primary hover:bg-primary/80 transition duration-500 py-2 px-6 text-black"
             >
-              Get Started
+              Bo'glanish
             </button>
           </div>
         </div>
